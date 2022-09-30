@@ -1,0 +1,8 @@
+[submodule "hugositebuildingblog/pubilc"]
+	path = hugositebuildingblog/pubilc
+	url = git@github.com:panda2tv/hugositebuildingblog.io.git
+	branch = main
+[submodule "hugositebuildingblog/public/public"]
+	path = hugositebuildingblog/public/public
+	url = git@github.com:panda2tv/hugositebuildingblog.io.git
+	branch = main

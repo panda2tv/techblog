@@ -3,7 +3,7 @@ baseURL = "https://panda2tv.github.io/"
 
 theme = "hugo-theme-puppet"
 
-copyright = ""
+copyright = "Murphy"
 paginate = 3
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -69,7 +69,7 @@ weight = 100
 
 [params]
 author = "Murphy"
-description = "this is a blog recording technical issue of all my work."
+description = "this is a blog recording technical issue of online projects."
 keywords = "blog,developer,personal"
 img_home = "/img/home-bg.jpg"
 img_404 = "/img/404-bg.jpg"

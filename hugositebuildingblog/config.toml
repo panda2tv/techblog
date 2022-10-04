@@ -82,19 +82,19 @@ bio = "Murphy's tech blog"
 
 [params.social]
 rss_enable = true
-twitter = "johndoe"
-facebook = "johndoe"
+#twitter = "johndoe"
+#facebook = "johndoe"
 #zhihu = "johndoe"
-weibo = "johndoe"
-github = "johndoe"
+#weibo = "johndoe"
+github = "panda2tv"
 #linkedin = "johndoe"
 
 
 # See https://giscus.app/
 [params.giscus]
 enable = true
-repo = "roninro/hugo-theme-puppet"
-repo_id = "R_kgDOHuvyhw"
+repo = "panda2tv/hugo-theme-puppet"
+repo_id = "45964612"
 category = "General"
 category_id = "DIC_kwDOHuvyh84CQjDo"
 input_position = "top"

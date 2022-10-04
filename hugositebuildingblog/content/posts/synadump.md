@@ -1,6 +1,13 @@
 ---
 title: "hugo theme Syna 从测试到放弃"
 date: 2022-09-30T20:08:31+08:00
+author : "Murphy"
+tags : ["github", "git", "hugo", "theme", "opensource"]
+categories : [
+    "themes",
+    "git",
+    "site building"
+]
 ---
 
 在调试hugo的theme Syna的时候碰到如下种种问题解决不了，就及时放弃  

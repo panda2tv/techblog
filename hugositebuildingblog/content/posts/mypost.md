@@ -1,9 +1,15 @@
 ---
 title: "git操作要求输入用户名和密码问题"
 date: 2022-09-16T17:01:07+08:00
+author : "Murphy"
+tags : ["github", "git", "hugo", "theme", "site building"]
+categories : [
+    "site building",
+    "git",
+]
 ---
 
-根据[youtuber Ryan Schachte作者教程](https://www.youtube.com/watch?v=LIFvgrRxdt4&t=27s&ab_channel=RyanSchachte)搭建git开发环境；  
+根据[youtuber Ryan Schachte作者教程](https://www.youtube.com/watch?v:LIFvgrRxdt4&t:27s&ab_channel:RyanSchachte)搭建git开发环境；  
 问题一：  
 使用git push老是碰到：Username for 'https://github.com': 
 即使把SSH key加入到github也重复要求输入；

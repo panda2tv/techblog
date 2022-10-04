@@ -1,6 +1,11 @@
 ---
 title: "Github page 的域名规则"
 date: 2022-10-01T10:30:51+08:00
+author : "Murphy"
+tags : ["github", "git", "Github Page"]
+categories : [
+    "git",
+]
 ---
 
 github page repo名需要使用用户名，那么域名为 用户名.github.io  
